@@ -1,0 +1,16 @@
+{
+    "name": "Unit",
+    "rootNamespace": "",
+    "references": [
+        "GUID:efc3b8a861fcbd64a9e54472a68aef3f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
